@@ -9,7 +9,7 @@
 1. Do you want to work Solo or on a Team: Solo
 2. [App Idea](https://github.com/LambdaSchool/iOS-Build-Week-1): Countdown Calculator`
 3. App Description (3-5 sentences):
-    1. This is an app to keep track of multiple, important dates. After selecting a date, it will display the countdown and the time remaining.
+    1. This is an app to keep track of multiple, important dates. After selecting a date, it will display the countdown and the time remaining. Upon finishing, the countdown will send out an alert to inform you.
 4. Target Audience: Forgetful people.
 
 ## Brainstorming
