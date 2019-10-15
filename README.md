@@ -31,9 +31,13 @@ Add photos, notes, and sketches from your brain storming session.
 
 ## Project Plan
 1. List out your tasks
+I imagine this looking a bit like the Grail Diary.  There will be a view controller to input the information, and get the output of the mortgage payment.  I'd want that information to be able to be saved to a view cell.  From that view cell you can drill down to a view controller see more details of that saved mortgage rate, and also be able to delete the saved info if wanted.
 2. Organize your tasks by priority
     1. Add subtasks
     2. Be specific. Every goal should be concrete, otherwise it's not actionable. 
     3. Break down large tasks into smaller tasks that you can "cross off".
 3. You won't be able to do everything, focus on ~3 features / 3-5 screens that you can finish
 4. Re-evaluate your progress each day and plan what you'll work on the next day
+ I'll create the layout of the view controllers and view cells.  I'll need some labels and text boxes for inputing the mortgage information.
+ I'll need to add buttons to segue to other views, and link up the IBOutlets and IBActions.
+ I'd like to add UIImage Views to allow a user to save an image of the home.
