@@ -19,12 +19,7 @@ EVERYONE
 
 Add photos, notes, and sketches from your brain storming session. 
 
-1. Brainstorming (Photo / Sketch)
-    1. 15 min: Mind Map 
-    2. 15 min: Organize ideas
-    3. 10 min: Sketch mock ups 
-2. If you have tons of ideas, set a timer again and keep going.
-3. Don't filter yourself in the brainstorming phase, you want to capture everything and anything
+https://marvelapp.com/d019a8b
 
 ## Project Plan
 1. List out your tasks
